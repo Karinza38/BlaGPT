@@ -1,4 +1,4 @@
-# BlaGPT
+ BlaGPT
 
 Experimental playground for benchmarking language model (LM) architectures, layers, and tricks on smaller datasets. Designed for flexible experimentation and exploration.
 
